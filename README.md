@@ -8,7 +8,7 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/08dipshikha/A_Star-OpenStreetMap-/edit/master.git
+git clone https://github.com/08dipshikha/A_Star-OpenStreetMap-.git
 ```
 
 ## Dependencies for Running Locally
